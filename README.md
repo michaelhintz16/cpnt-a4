@@ -6,7 +6,7 @@ Made by Michael HIntz
 karts R US is a fully indoor go kart facility. fun for friends and the family or come alone and meet new people.
 This is just a simple little website. on the top you have the logo and a background image both responsive. then you got the nav bar just below it also responsive,
 then you got the hero image. when i resised it the image got a little distorted. then right below it is the card blocks thesee are the riders top 3 riders of the week. 
-and below that is just somke fun i had with the website i added pricves so you know how much it costs. and below that is just a footer image with a footer copuy right tag. 
+and below that is just some fun i had with the website i added prices so you know how much it costs. and below that is just a footer image with a footer copyright tag. 
 
 # Troubles 
 * so i had trouble at first getting the hero image to be larger, and how i fixed that was i removed some code in my html. the container to be exact. it was causing the image to be only 100% of the container not the page.
@@ -21,5 +21,5 @@ and below that is just somke fun i had with the website i added pricves so you k
 * [https://unsplash.com/photos/qIu77BsFdds](podium image-unsplash)
 * [https://www.logolynx.com/images/logolynx/d8/d86ec27fb0163c56ac80a7b794c0b945.jpeg] (image logo)
 * the logo was taken downloaded straight from microsoft edge images right on the page and i know it may not work on all devices
-* 
+* [https://unsplash.com/](all the avatar images)
 
