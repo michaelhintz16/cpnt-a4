@@ -24,5 +24,6 @@ and below that is just some fun i had with the website i added prices so you kno
 * [https://unsplash.com/](all the avatar images)
 
 [https://github.com/michaelhintz16/cpnt-a4/blob/main/README.md](github read me)
+[https://michaelhintz16.github.io/cpnt-a4/](github pages)
 
 
