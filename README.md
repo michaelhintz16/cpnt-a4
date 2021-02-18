@@ -23,3 +23,6 @@ and below that is just some fun i had with the website i added prices so you kno
 * the logo was taken downloaded straight from microsoft edge images right on the page and i know it may not work on all devices
 * [https://unsplash.com/](all the avatar images)
 
+[https://github.com/michaelhintz16/cpnt-a4/blob/main/README.md](github read me)
+
+
